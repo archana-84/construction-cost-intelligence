@@ -1,0 +1,4 @@
+source,dataset,use_in_project,official_source
+U.S. Census Bureau,Value of Construction Put in Place (VIP),Industry-level construction spending context,https://www.census.gov/construction/c30/c30index.html
+U.S. Census Bureau,Value of Construction Put in Place (VIP),Benchmarking construction activity trends,https://www.census.gov/construction/c30/historical_data.html
+U.S. Census Bureau,Value of Construction Put in Place (VIP),Optional dashboard context/trend comparison,https://www.census.gov/construction/c30/historical_data.html

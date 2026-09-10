@@ -1,0 +1,301 @@
+project_id,project_name,project_type,location,start_date,end_date,duration_days,project_size_sqft,complexity
+P0001,East Road Project 1,Warehouse Development,"Tonawanda, NY",2024-04-12,2025-02-28,322,438570,Medium
+P0002,Central Industrial Project 2,Industrial Site,"Williamsville, NY",2025-03-11,2025-09-15,188,290987,Low
+P0003,East Municipal Project 3,Industrial Site,"Amherst, NY",2024-09-27,2025-05-21,236,32640,High
+P0004,West Road Project 4,Warehouse Development,"Amherst, NY",2024-04-16,2025-02-07,297,67528,Medium
+P0005,North Road Project 5,Municipal Improvement,"Buffalo, NY",2024-03-12,2024-10-18,220,274214,Low
+P0006,Central Warehouse Project 6,Municipal Improvement,"Amherst, NY",2025-12-01,2026-07-30,241,516108,Low
+P0007,North Warehouse Project 7,Residential Development,"Lancaster, NY",2024-01-21,2024-06-12,143,383501,Medium
+P0008,North Industrial Project 8,Industrial Site,"Williamsville, NY",2025-09-06,2026-04-03,209,165159,Medium
+P0009,North Warehouse Project 9,Road & Infrastructure,"Amherst, NY",2024-05-01,2025-01-06,250,187502,Medium
+P0010,Central Commercial Project 10,Residential Development,"Tonawanda, NY",2025-04-11,2025-11-02,205,170576,High
+P0011,North Municipal Project 11,Municipal Improvement,"Clarence, NY",2024-08-02,2025-01-13,164,26023,Medium
+P0012,Central Industrial Project 12,Warehouse Development,"Hamburg, NY",2024-11-26,2025-06-16,202,560735,Low
+P0013,West Industrial Project 13,Municipal Improvement,"Clarence, NY",2025-04-03,2025-10-13,193,403043,Low
+P0014,Central Commercial Project 14,Warehouse Development,"Buffalo, NY",2024-03-28,2025-03-06,343,301103,Low
+P0015,North Road Project 15,Residential Development,"Clarence, NY",2025-01-07,2025-11-19,316,81203,Medium
+P0016,North Commercial Project 16,Industrial Site,"Williamsville, NY",2024-04-09,2024-10-27,201,175775,Low
+P0017,North Warehouse Project 17,Municipal Improvement,"Buffalo, NY",2025-10-25,2026-05-01,188,24337,Medium
+P0018,West Municipal Project 18,Warehouse Development,"Williamsville, NY",2024-05-10,2025-01-07,242,585715,Medium
+P0019,South Road Project 19,Industrial Site,"Tonawanda, NY",2025-10-23,2026-08-02,283,529723,High
+P0020,Central Road Project 20,Road & Infrastructure,"Buffalo, NY",2024-11-04,2025-07-14,252,338673,Low
+P0021,East Warehouse Project 21,Warehouse Development,"Cheektowaga, NY",2026-02-08,2026-12-02,297,379167,High
+P0022,East Road Project 22,Residential Development,"Lancaster, NY",2024-12-09,2025-08-24,258,361809,Low
+P0023,South Commercial Project 23,Road & Infrastructure,"Lancaster, NY",2025-05-06,2026-01-11,250,310451,High
+P0024,West Warehouse Project 24,Road & Infrastructure,"Williamsville, NY",2025-02-17,2025-07-24,157,435571,Low
+P0025,East Warehouse Project 25,Commercial Sitework,"Clarence, NY",2025-01-20,2025-09-01,224,142016,Medium
+P0026,Central Road Project 26,Municipal Improvement,"Hamburg, NY",2024-07-10,2025-04-20,284,559447,Medium
+P0027,East Road Project 27,Warehouse Development,"Hamburg, NY",2024-10-03,2025-05-08,217,512562,Low
+P0028,South Municipal Project 28,Road & Infrastructure,"Cheektowaga, NY",2024-06-09,2024-10-09,122,398934,Low
+P0029,South Commercial Project 29,Commercial Sitework,"Buffalo, NY",2025-04-04,2025-12-25,265,332428,Medium
+P0030,South Commercial Project 30,Residential Development,"Cheektowaga, NY",2024-11-09,2025-02-28,111,334187,Medium
+P0031,North Industrial Project 31,Industrial Site,"Cheektowaga, NY",2024-01-22,2024-12-14,327,97844,Medium
+P0032,East Road Project 32,Warehouse Development,"Clarence, NY",2024-09-09,2025-05-14,247,566820,Medium
+P0033,Central Commercial Project 33,Road & Infrastructure,"Hamburg, NY",2026-01-17,2026-05-24,127,180421,Medium
+P0034,North Municipal Project 34,Municipal Improvement,"Buffalo, NY",2025-07-14,2026-05-29,319,137402,Low
+P0035,West Industrial Project 35,Commercial Sitework,"Tonawanda, NY",2025-04-19,2025-09-06,140,133012,Low
+P0036,North Road Project 36,Road & Infrastructure,"Clarence, NY",2024-02-28,2025-02-15,353,453661,Low
+P0037,East Industrial Project 37,Municipal Improvement,"Cheektowaga, NY",2025-05-25,2025-09-18,116,413929,High
+P0038,East Industrial Project 38,Road & Infrastructure,"Cheektowaga, NY",2025-11-12,2026-09-23,315,595466,Medium
+P0039,South Commercial Project 39,Warehouse Development,"Tonawanda, NY",2025-04-20,2025-10-23,186,588695,Medium
+P0040,East Municipal Project 40,Warehouse Development,"Cheektowaga, NY",2025-11-30,2026-07-24,236,478556,Medium
+P0041,Central Road Project 41,Warehouse Development,"Cheektowaga, NY",2026-02-21,2026-05-25,93,590278,High
+P0042,North Commercial Project 42,Residential Development,"Cheektowaga, NY",2024-07-08,2024-11-09,124,144473,Low
+P0043,West Road Project 43,Residential Development,"Lancaster, NY",2025-11-17,2026-08-25,281,493007,Medium
+P0044,South Municipal Project 44,Commercial Sitework,"Clarence, NY",2025-07-16,2025-12-01,138,432009,Medium
+P0045,North Municipal Project 45,Warehouse Development,"Amherst, NY",2025-07-20,2025-11-03,106,333714,Medium
+P0046,East Warehouse Project 46,Municipal Improvement,"Clarence, NY",2024-08-31,2025-05-19,261,241156,Low
+P0047,Central Commercial Project 47,Road & Infrastructure,"Tonawanda, NY",2025-05-19,2026-03-24,309,183964,High
+P0048,East Commercial Project 48,Industrial Site,"Cheektowaga, NY",2024-05-10,2025-01-12,247,540303,High
+P0049,South Warehouse Project 49,Municipal Improvement,"Clarence, NY",2025-04-29,2025-09-11,135,76813,Medium
+P0050,South Commercial Project 50,Residential Development,"Lancaster, NY",2025-10-08,2026-01-11,95,42712,Medium
+P0051,North Road Project 51,Residential Development,"Hamburg, NY",2024-01-21,2024-07-27,188,127816,High
+P0052,East Municipal Project 52,Municipal Improvement,"Tonawanda, NY",2024-06-15,2025-05-03,322,143778,Medium
+P0053,South Warehouse Project 53,Residential Development,"Williamsville, NY",2024-09-30,2025-02-03,126,300977,Low
+P0054,East Road Project 54,Warehouse Development,"Clarence, NY",2025-01-22,2025-10-19,270,150230,Medium
+P0055,South Industrial Project 55,Commercial Sitework,"Williamsville, NY",2025-08-23,2026-02-23,184,284114,Medium
+P0056,Central Warehouse Project 56,Road & Infrastructure,"Cheektowaga, NY",2024-11-11,2025-05-18,188,349618,Medium
+P0057,Central Warehouse Project 57,Commercial Sitework,"Lancaster, NY",2024-01-14,2024-10-17,277,166456,Medium
+P0058,Central Road Project 58,Road & Infrastructure,"Lancaster, NY",2024-08-29,2025-03-22,205,120570,High
+P0059,North Industrial Project 59,Road & Infrastructure,"Clarence, NY",2026-02-15,2026-11-22,280,285846,High
+P0060,Central Road Project 60,Commercial Sitework,"Tonawanda, NY",2024-12-11,2025-11-18,342,15404,Medium
+P0061,East Industrial Project 61,Municipal Improvement,"Tonawanda, NY",2025-07-18,2026-03-25,250,289907,Low
+P0062,East Industrial Project 62,Road & Infrastructure,"Lancaster, NY",2024-12-05,2025-11-15,345,250365,High
+P0063,East Road Project 63,Commercial Sitework,"Tonawanda, NY",2024-04-01,2024-11-04,217,357786,High
+P0064,Central Commercial Project 64,Road & Infrastructure,"Lancaster, NY",2025-01-01,2025-04-18,107,65612,Low
+P0065,East Warehouse Project 65,Industrial Site,"Clarence, NY",2025-03-30,2026-02-05,312,215244,High
+P0066,North Municipal Project 66,Municipal Improvement,"Amherst, NY",2025-03-03,2025-07-24,143,19809,High
+P0067,East Commercial Project 67,Warehouse Development,"Lancaster, NY",2025-05-23,2025-10-17,147,178273,Medium
+P0068,Central Municipal Project 68,Road & Infrastructure,"Williamsville, NY",2026-02-14,2026-11-04,263,159528,Medium
+P0069,Central Commercial Project 69,Industrial Site,"Tonawanda, NY",2024-02-04,2024-08-25,203,521964,Medium
+P0070,Central Industrial Project 70,Warehouse Development,"Lancaster, NY",2024-07-24,2025-03-21,240,464613,Low
+P0071,West Municipal Project 71,Warehouse Development,"Lancaster, NY",2024-03-21,2024-10-23,216,53765,Low
+P0072,West Road Project 72,Road & Infrastructure,"Clarence, NY",2025-07-15,2026-03-16,244,331076,High
+P0073,East Road Project 73,Commercial Sitework,"Tonawanda, NY",2025-01-22,2025-08-03,193,561237,Low
+P0074,South Commercial Project 74,Road & Infrastructure,"Amherst, NY",2024-01-02,2024-12-02,335,216152,Low
+P0075,East Industrial Project 75,Industrial Site,"Clarence, NY",2025-01-24,2025-10-16,265,314888,Medium
+P0076,South Municipal Project 76,Warehouse Development,"Amherst, NY",2025-07-19,2025-11-24,128,107193,Medium
+P0077,Central Industrial Project 77,Road & Infrastructure,"Hamburg, NY",2024-04-15,2024-12-30,259,51187,High
+P0078,West Industrial Project 78,Commercial Sitework,"Clarence, NY",2026-02-10,2027-01-12,336,520950,Low
+P0079,Central Road Project 79,Road & Infrastructure,"Tonawanda, NY",2025-04-21,2025-08-14,115,153311,Low
+P0080,West Industrial Project 80,Municipal Improvement,"Buffalo, NY",2025-12-03,2026-03-15,102,523153,Medium
+P0081,Central Municipal Project 81,Commercial Sitework,"Tonawanda, NY",2025-02-05,2025-06-10,125,204089,Medium
+P0082,North Commercial Project 82,Industrial Site,"Tonawanda, NY",2025-12-30,2026-09-18,262,451341,Low
+P0083,North Industrial Project 83,Warehouse Development,"Amherst, NY",2025-07-09,2025-10-26,109,327066,Medium
+P0084,West Road Project 84,Road & Infrastructure,"Amherst, NY",2024-06-10,2025-05-29,353,576419,Low
+P0085,East Municipal Project 85,Commercial Sitework,"Tonawanda, NY",2024-07-20,2025-03-08,231,140917,Low
+P0086,South Commercial Project 86,Municipal Improvement,"Tonawanda, NY",2024-09-26,2025-05-16,232,314770,Medium
+P0087,South Warehouse Project 87,Commercial Sitework,"Tonawanda, NY",2024-09-27,2025-03-27,181,496680,Medium
+P0088,West Road Project 88,Residential Development,"Amherst, NY",2025-03-31,2026-01-29,304,296342,High
+P0089,Central Warehouse Project 89,Municipal Improvement,"Tonawanda, NY",2025-04-06,2025-08-24,140,554542,Medium
+P0090,West Warehouse Project 90,Industrial Site,"Tonawanda, NY",2025-12-27,2026-08-26,242,59238,Medium
+P0091,South Warehouse Project 91,Warehouse Development,"Hamburg, NY",2024-09-08,2025-06-10,275,16252,Medium
+P0092,East Commercial Project 92,Industrial Site,"Cheektowaga, NY",2025-12-02,2026-05-03,152,500450,Low
+P0093,West Commercial Project 93,Road & Infrastructure,"Buffalo, NY",2024-10-22,2025-07-28,279,330826,Medium
+P0094,South Commercial Project 94,Commercial Sitework,"Williamsville, NY",2025-12-25,2026-07-27,214,336638,Low
+P0095,South Municipal Project 95,Residential Development,"Buffalo, NY",2025-12-20,2026-08-16,239,342359,High
+P0096,South Industrial Project 96,Municipal Improvement,"Cheektowaga, NY",2026-01-18,2026-06-14,147,21949,Low
+P0097,Central Warehouse Project 97,Municipal Improvement,"Williamsville, NY",2024-12-03,2025-08-29,269,332537,Medium
+P0098,West Municipal Project 98,Commercial Sitework,"Clarence, NY",2024-02-22,2024-11-07,259,565222,Low
+P0099,East Warehouse Project 99,Residential Development,"Tonawanda, NY",2024-08-04,2024-12-25,143,470102,High
+P0100,Central Warehouse Project 100,Commercial Sitework,"Cheektowaga, NY",2026-02-02,2026-08-11,190,352889,Medium
+P0101,Central Municipal Project 101,Road & Infrastructure,"Hamburg, NY",2024-07-06,2025-06-24,353,491467,Medium
+P0102,North Municipal Project 102,Industrial Site,"Clarence, NY",2025-01-14,2025-06-05,142,371600,Low
+P0103,East Industrial Project 103,Municipal Improvement,"Tonawanda, NY",2025-05-07,2025-10-03,149,330557,Medium
+P0104,South Industrial Project 104,Road & Infrastructure,"Amherst, NY",2024-02-10,2024-08-25,197,319462,Low
+P0105,South Road Project 105,Industrial Site,"Lancaster, NY",2024-06-05,2024-09-07,94,265875,High
+P0106,West Commercial Project 106,Road & Infrastructure,"Cheektowaga, NY",2024-01-15,2024-07-25,192,478389,Low
+P0107,East Road Project 107,Residential Development,"Amherst, NY",2024-03-05,2024-12-15,285,85390,Low
+P0108,North Road Project 108,Municipal Improvement,"Cheektowaga, NY",2025-06-04,2026-05-21,351,268490,Low
+P0109,Central Municipal Project 109,Commercial Sitework,"Hamburg, NY",2024-12-09,2025-04-24,136,582376,Medium
+P0110,West Industrial Project 110,Commercial Sitework,"Cheektowaga, NY",2024-05-08,2024-12-27,233,262940,Medium
+P0111,West Municipal Project 111,Industrial Site,"Amherst, NY",2025-10-09,2026-10-02,358,380340,Low
+P0112,East Municipal Project 112,Warehouse Development,"Hamburg, NY",2025-04-16,2025-11-15,213,448027,Medium
+P0113,North Warehouse Project 113,Residential Development,"Williamsville, NY",2024-03-03,2024-09-14,195,523041,Medium
+P0114,West Road Project 114,Industrial Site,"Buffalo, NY",2024-05-18,2025-01-20,247,332623,Medium
+P0115,Central Road Project 115,Warehouse Development,"Tonawanda, NY",2025-05-13,2026-01-04,236,231464,Medium
+P0116,East Warehouse Project 116,Road & Infrastructure,"Cheektowaga, NY",2025-08-15,2026-04-06,234,525736,Medium
+P0117,East Commercial Project 117,Residential Development,"Tonawanda, NY",2025-01-26,2025-08-23,209,332267,Medium
+P0118,Central Municipal Project 118,Road & Infrastructure,"Lancaster, NY",2025-11-05,2026-05-05,181,238777,Low
+P0119,East Commercial Project 119,Municipal Improvement,"Amherst, NY",2025-02-22,2025-07-19,147,20569,Low
+P0120,South Warehouse Project 120,Residential Development,"Tonawanda, NY",2024-10-15,2025-08-29,318,444802,High
+P0121,South Road Project 121,Warehouse Development,"Amherst, NY",2025-01-13,2025-08-07,206,273090,High
+P0122,East Commercial Project 122,Municipal Improvement,"Tonawanda, NY",2026-02-11,2026-09-15,216,60002,Medium
+P0123,North Warehouse Project 123,Commercial Sitework,"Buffalo, NY",2025-05-04,2025-12-08,218,513870,Low
+P0124,South Warehouse Project 124,Warehouse Development,"Buffalo, NY",2024-08-18,2025-01-12,147,226791,Medium
+P0125,East Warehouse Project 125,Industrial Site,"Hamburg, NY",2024-02-10,2024-09-08,211,217846,Medium
+P0126,North Commercial Project 126,Commercial Sitework,"Buffalo, NY",2024-01-28,2024-04-27,90,39071,Low
+P0127,Central Road Project 127,Commercial Sitework,"Hamburg, NY",2024-05-14,2025-04-07,328,597531,Low
+P0128,East Industrial Project 128,Industrial Site,"Buffalo, NY",2024-07-19,2025-01-20,185,187312,Medium
+P0129,West Municipal Project 129,Residential Development,"Buffalo, NY",2026-02-18,2026-09-21,215,272218,Medium
+P0130,Central Warehouse Project 130,Commercial Sitework,"Buffalo, NY",2024-02-02,2024-08-27,207,229879,Low
+P0131,Central Warehouse Project 131,Warehouse Development,"Amherst, NY",2024-02-17,2024-07-03,137,378714,Low
+P0132,South Municipal Project 132,Municipal Improvement,"Cheektowaga, NY",2025-05-17,2025-11-11,178,441650,Low
+P0133,West Commercial Project 133,Commercial Sitework,"Hamburg, NY",2025-02-10,2026-01-02,326,346868,Medium
+P0134,North Warehouse Project 134,Warehouse Development,"Tonawanda, NY",2025-07-27,2026-05-01,278,568020,Low
+P0135,West Warehouse Project 135,Road & Infrastructure,"Buffalo, NY",2025-12-28,2026-10-05,281,432170,Low
+P0136,North Commercial Project 136,Warehouse Development,"Amherst, NY",2024-04-08,2024-09-13,158,72108,Medium
+P0137,West Road Project 137,Municipal Improvement,"Amherst, NY",2025-11-14,2026-10-16,336,495721,Low
+P0138,Central Industrial Project 138,Warehouse Development,"Amherst, NY",2025-12-26,2026-06-09,165,126195,Medium
+P0139,East Road Project 139,Industrial Site,"Hamburg, NY",2025-06-30,2026-02-28,243,51668,Low
+P0140,North Road Project 140,Municipal Improvement,"Cheektowaga, NY",2026-01-08,2026-08-29,233,300205,Low
+P0141,South Industrial Project 141,Residential Development,"Hamburg, NY",2025-09-04,2026-02-26,175,356396,Low
+P0142,East Road Project 142,Road & Infrastructure,"Tonawanda, NY",2025-04-06,2026-01-05,274,579037,Medium
+P0143,North Commercial Project 143,Industrial Site,"Cheektowaga, NY",2025-10-04,2026-08-09,309,145560,High
+P0144,West Commercial Project 144,Residential Development,"Williamsville, NY",2026-02-07,2026-07-15,158,381824,High
+P0145,East Municipal Project 145,Warehouse Development,"Clarence, NY",2024-01-05,2024-05-20,136,162979,Medium
+P0146,North Commercial Project 146,Municipal Improvement,"Amherst, NY",2024-08-05,2025-02-04,183,164849,Medium
+P0147,West Commercial Project 147,Road & Infrastructure,"Hamburg, NY",2025-05-17,2026-04-09,327,66745,Low
+P0148,West Warehouse Project 148,Industrial Site,"Williamsville, NY",2026-02-05,2026-11-25,293,385608,Low
+P0149,North Industrial Project 149,Residential Development,"Lancaster, NY",2025-02-01,2025-12-05,307,106865,High
+P0150,South Warehouse Project 150,Residential Development,"Hamburg, NY",2025-01-27,2025-06-04,128,227890,Low
+P0151,North Industrial Project 151,Road & Infrastructure,"Buffalo, NY",2024-07-25,2025-01-30,189,38624,Low
+P0152,North Commercial Project 152,Warehouse Development,"Clarence, NY",2024-01-15,2024-12-23,343,38321,Low
+P0153,North Road Project 153,Road & Infrastructure,"Buffalo, NY",2025-07-07,2026-05-14,311,418704,Low
+P0154,North Road Project 154,Residential Development,"Cheektowaga, NY",2025-04-05,2025-07-26,112,189293,Low
+P0155,West Industrial Project 155,Commercial Sitework,"Clarence, NY",2025-11-21,2026-10-26,339,201717,Medium
+P0156,South Industrial Project 156,Industrial Site,"Hamburg, NY",2025-07-28,2025-11-04,99,395975,Medium
+P0157,South Industrial Project 157,Road & Infrastructure,"Tonawanda, NY",2026-01-12,2026-12-13,335,198868,High
+P0158,South Industrial Project 158,Residential Development,"Williamsville, NY",2024-08-28,2025-03-05,189,110257,High
+P0159,West Commercial Project 159,Warehouse Development,"Tonawanda, NY",2025-07-17,2026-04-12,269,225176,Low
+P0160,East Road Project 160,Residential Development,"Hamburg, NY",2024-04-05,2025-02-11,312,205471,Low
+P0161,East Municipal Project 161,Warehouse Development,"Cheektowaga, NY",2026-01-03,2026-12-08,339,487930,Medium
+P0162,North Commercial Project 162,Road & Infrastructure,"Buffalo, NY",2025-04-29,2025-12-21,236,533862,Medium
+P0163,North Industrial Project 163,Warehouse Development,"Clarence, NY",2025-02-10,2025-08-14,185,490774,Low
+P0164,West Industrial Project 164,Municipal Improvement,"Tonawanda, NY",2024-08-18,2025-07-30,346,154789,Medium
+P0165,West Warehouse Project 165,Municipal Improvement,"Hamburg, NY",2026-01-18,2026-04-21,93,404593,Medium
+P0166,East Municipal Project 166,Municipal Improvement,"Tonawanda, NY",2025-10-16,2026-01-29,105,88686,Medium
+P0167,West Warehouse Project 167,Commercial Sitework,"Hamburg, NY",2024-06-19,2025-05-21,336,82661,Medium
+P0168,South Industrial Project 168,Road & Infrastructure,"Buffalo, NY",2025-06-24,2026-06-06,347,583535,Low
+P0169,East Commercial Project 169,Residential Development,"Clarence, NY",2024-02-05,2024-10-11,249,260121,High
+P0170,West Industrial Project 170,Residential Development,"Williamsville, NY",2025-06-08,2026-02-04,241,382257,Medium
+P0171,East Industrial Project 171,Commercial Sitework,"Buffalo, NY",2024-06-08,2025-03-02,267,281765,Low
+P0172,West Warehouse Project 172,Warehouse Development,"Tonawanda, NY",2025-11-29,2026-08-08,252,161106,High
+P0173,Central Commercial Project 173,Commercial Sitework,"Williamsville, NY",2024-08-30,2024-12-30,122,273930,Medium
+P0174,Central Municipal Project 174,Warehouse Development,"Hamburg, NY",2024-03-26,2024-12-19,268,463874,High
+P0175,South Municipal Project 175,Warehouse Development,"Williamsville, NY",2025-07-31,2026-02-06,190,577926,Medium
+P0176,West Road Project 176,Industrial Site,"Hamburg, NY",2025-11-12,2026-11-04,357,133033,Medium
+P0177,Central Road Project 177,Residential Development,"Buffalo, NY",2025-07-10,2025-12-11,154,181926,Low
+P0178,East Warehouse Project 178,Municipal Improvement,"Tonawanda, NY",2025-07-27,2026-04-10,257,585559,Low
+P0179,South Industrial Project 179,Warehouse Development,"Cheektowaga, NY",2025-10-07,2026-02-16,132,446734,Medium
+P0180,East Road Project 180,Industrial Site,"Tonawanda, NY",2024-01-28,2024-06-09,133,388220,Medium
+P0181,North Municipal Project 181,Residential Development,"Hamburg, NY",2025-09-11,2025-12-21,101,236897,Low
+P0182,East Warehouse Project 182,Municipal Improvement,"Amherst, NY",2025-07-09,2026-01-09,184,16062,Low
+P0183,South Municipal Project 183,Warehouse Development,"Clarence, NY",2024-12-05,2025-11-12,342,262736,High
+P0184,East Road Project 184,Warehouse Development,"Lancaster, NY",2024-11-26,2025-10-23,331,589736,High
+P0185,Central Commercial Project 185,Commercial Sitework,"Cheektowaga, NY",2025-10-01,2026-02-02,124,110462,Medium
+P0186,West Commercial Project 186,Commercial Sitework,"Williamsville, NY",2025-05-20,2026-03-20,304,414445,Low
+P0187,Central Industrial Project 187,Residential Development,"Cheektowaga, NY",2024-12-13,2025-06-10,179,465009,Low
+P0188,Central Warehouse Project 188,Municipal Improvement,"Clarence, NY",2025-04-17,2026-04-05,353,587203,Low
+P0189,Central Warehouse Project 189,Warehouse Development,"Williamsville, NY",2024-08-18,2025-02-16,182,281776,High
+P0190,West Warehouse Project 190,Residential Development,"Clarence, NY",2024-07-08,2025-01-03,179,386923,Low
+P0191,West Warehouse Project 191,Residential Development,"Williamsville, NY",2024-08-12,2025-03-04,204,414384,Medium
+P0192,South Commercial Project 192,Road & Infrastructure,"Cheektowaga, NY",2025-01-19,2025-08-01,194,546849,Low
+P0193,East Commercial Project 193,Commercial Sitework,"Williamsville, NY",2025-01-11,2025-10-23,285,482010,Medium
+P0194,West Industrial Project 194,Municipal Improvement,"Williamsville, NY",2024-10-09,2025-04-30,203,401193,Medium
+P0195,Central Industrial Project 195,Warehouse Development,"Amherst, NY",2025-09-24,2026-03-07,164,41734,High
+P0196,West Industrial Project 196,Residential Development,"Tonawanda, NY",2025-09-19,2026-07-22,306,41069,Low
+P0197,South Warehouse Project 197,Warehouse Development,"Tonawanda, NY",2026-01-14,2026-12-18,338,552198,Low
+P0198,South Municipal Project 198,Road & Infrastructure,"Lancaster, NY",2024-09-15,2025-05-26,253,350623,Low
+P0199,East Industrial Project 199,Municipal Improvement,"Lancaster, NY",2024-12-24,2025-10-01,281,485951,High
+P0200,Central Warehouse Project 200,Residential Development,"Hamburg, NY",2025-12-10,2026-10-22,316,96264,High
+P0201,East Road Project 201,Warehouse Development,"Hamburg, NY",2025-03-31,2025-12-22,266,38275,Medium
+P0202,South Road Project 202,Commercial Sitework,"Hamburg, NY",2025-02-14,2025-08-21,188,489665,Medium
+P0203,North Municipal Project 203,Road & Infrastructure,"Amherst, NY",2025-10-10,2026-02-12,125,377920,Medium
+P0204,South Warehouse Project 204,Municipal Improvement,"Lancaster, NY",2024-11-13,2025-05-17,185,206076,Low
+P0205,South Warehouse Project 205,Road & Infrastructure,"Clarence, NY",2025-11-07,2026-07-06,241,209053,High
+P0206,South Road Project 206,Commercial Sitework,"Hamburg, NY",2024-08-12,2025-04-09,240,587735,Medium
+P0207,Central Road Project 207,Municipal Improvement,"Hamburg, NY",2024-08-21,2025-05-27,279,127581,Medium
+P0208,North Warehouse Project 208,Road & Infrastructure,"Cheektowaga, NY",2025-11-14,2026-09-23,313,280956,Medium
+P0209,Central Commercial Project 209,Industrial Site,"Buffalo, NY",2025-10-25,2026-02-28,126,436240,Low
+P0210,West Industrial Project 210,Commercial Sitework,"Clarence, NY",2025-01-08,2025-12-31,357,131421,Low
+P0211,North Municipal Project 211,Commercial Sitework,"Hamburg, NY",2025-11-02,2026-08-01,272,540893,Medium
+P0212,North Commercial Project 212,Commercial Sitework,"Hamburg, NY",2025-08-30,2025-12-10,102,479374,Low
+P0213,West Industrial Project 213,Industrial Site,"Hamburg, NY",2025-04-16,2026-02-16,306,87303,Medium
+P0214,East Road Project 214,Industrial Site,"Buffalo, NY",2024-08-20,2025-01-18,151,173211,Low
+P0215,Central Commercial Project 215,Warehouse Development,"Buffalo, NY",2025-11-22,2026-05-14,173,202210,Medium
+P0216,West Warehouse Project 216,Residential Development,"Amherst, NY",2024-04-22,2025-02-22,306,159990,Low
+P0217,Central Municipal Project 217,Road & Infrastructure,"Clarence, NY",2025-05-11,2026-02-11,276,173518,Medium
+P0218,South Municipal Project 218,Warehouse Development,"Amherst, NY",2025-03-17,2025-07-03,108,139040,Medium
+P0219,South Road Project 219,Road & Infrastructure,"Williamsville, NY",2025-07-17,2026-04-09,266,538138,Low
+P0220,South Warehouse Project 220,Residential Development,"Buffalo, NY",2024-09-24,2025-04-01,189,433034,Medium
+P0221,North Commercial Project 221,Industrial Site,"Cheektowaga, NY",2025-05-24,2026-04-11,322,555677,Medium
+P0222,Central Warehouse Project 222,Residential Development,"Lancaster, NY",2025-01-20,2025-07-04,165,318571,Medium
+P0223,East Warehouse Project 223,Industrial Site,"Cheektowaga, NY",2025-01-21,2026-01-10,354,137883,High
+P0224,North Commercial Project 224,Residential Development,"Lancaster, NY",2024-04-22,2025-02-11,295,402952,Medium
+P0225,West Warehouse Project 225,Warehouse Development,"Buffalo, NY",2025-09-04,2026-07-13,312,127221,Low
+P0226,North Municipal Project 226,Municipal Improvement,"Buffalo, NY",2025-09-16,2026-02-04,141,275669,Low
+P0227,Central Road Project 227,Warehouse Development,"Buffalo, NY",2024-03-21,2024-11-09,233,540134,Low
+P0228,West Road Project 228,Road & Infrastructure,"Amherst, NY",2025-11-29,2026-05-06,158,550242,Medium
+P0229,North Commercial Project 229,Warehouse Development,"Clarence, NY",2024-04-22,2024-10-27,188,356383,Low
+P0230,West Warehouse Project 230,Commercial Sitework,"Lancaster, NY",2024-01-02,2024-04-25,114,259761,Medium
+P0231,West Municipal Project 231,Road & Infrastructure,"Clarence, NY",2025-10-03,2026-02-22,142,152541,Medium
+P0232,Central Warehouse Project 232,Residential Development,"Amherst, NY",2024-08-07,2025-04-04,240,79323,Low
+P0233,South Industrial Project 233,Road & Infrastructure,"Amherst, NY",2025-07-19,2026-03-09,233,204139,Medium
+P0234,North Road Project 234,Municipal Improvement,"Tonawanda, NY",2026-01-05,2026-05-31,146,195448,Low
+P0235,West Industrial Project 235,Industrial Site,"Cheektowaga, NY",2024-08-12,2024-12-18,128,250659,Low
+P0236,Central Commercial Project 236,Residential Development,"Cheektowaga, NY",2025-01-19,2025-08-05,198,404678,Medium
+P0237,East Road Project 237,Road & Infrastructure,"Williamsville, NY",2025-02-06,2025-11-03,270,119537,Medium
+P0238,Central Municipal Project 238,Residential Development,"Hamburg, NY",2025-09-29,2026-02-07,131,256983,Medium
+P0239,Central Commercial Project 239,Residential Development,"Amherst, NY",2024-05-09,2025-02-08,275,581821,Medium
+P0240,North Municipal Project 240,Residential Development,"Lancaster, NY",2024-02-22,2024-12-30,312,16917,Low
+P0241,West Industrial Project 241,Industrial Site,"Tonawanda, NY",2025-11-14,2026-06-13,211,297762,High
+P0242,West Road Project 242,Warehouse Development,"Tonawanda, NY",2025-12-30,2026-08-09,222,571542,Medium
+P0243,South Municipal Project 243,Residential Development,"Hamburg, NY",2025-11-02,2026-07-12,252,382436,Medium
+P0244,East Industrial Project 244,Commercial Sitework,"Clarence, NY",2025-12-10,2026-10-10,304,524930,Low
+P0245,North Industrial Project 245,Municipal Improvement,"Hamburg, NY",2025-02-19,2025-12-26,310,586650,Medium
+P0246,Central Commercial Project 246,Industrial Site,"Hamburg, NY",2024-09-03,2025-07-24,324,297272,Medium
+P0247,East Industrial Project 247,Road & Infrastructure,"Hamburg, NY",2025-03-14,2025-11-04,235,400925,Low
+P0248,West Warehouse Project 248,Industrial Site,"Cheektowaga, NY",2024-07-21,2025-06-14,328,97180,High
+P0249,Central Warehouse Project 249,Road & Infrastructure,"Amherst, NY",2024-07-02,2024-12-14,165,418081,Low
+P0250,South Industrial Project 250,Industrial Site,"Williamsville, NY",2024-05-02,2024-08-08,98,316953,High
+P0251,West Industrial Project 251,Road & Infrastructure,"Amherst, NY",2025-02-04,2025-07-17,163,393892,Medium
+P0252,Central Commercial Project 252,Residential Development,"Clarence, NY",2026-02-05,2027-01-13,342,20287,Low
+P0253,Central Road Project 253,Warehouse Development,"Buffalo, NY",2024-10-20,2025-09-04,319,272665,Medium
+P0254,South Commercial Project 254,Road & Infrastructure,"Hamburg, NY",2024-10-06,2025-01-10,96,23512,High
+P0255,South Municipal Project 255,Road & Infrastructure,"Amherst, NY",2025-09-01,2026-05-22,263,471292,Medium
+P0256,South Industrial Project 256,Commercial Sitework,"Clarence, NY",2024-07-16,2025-03-03,230,123872,High
+P0257,South Commercial Project 257,Road & Infrastructure,"Buffalo, NY",2025-05-25,2026-02-06,257,108070,Medium
+P0258,South Commercial Project 258,Commercial Sitework,"Buffalo, NY",2026-01-21,2026-10-07,259,444474,Medium
+P0259,West Municipal Project 259,Municipal Improvement,"Hamburg, NY",2024-05-23,2024-12-20,211,57078,High
+P0260,North Warehouse Project 260,Residential Development,"Williamsville, NY",2025-08-31,2026-06-10,283,383432,Low
+P0261,North Commercial Project 261,Commercial Sitework,"Lancaster, NY",2024-07-19,2024-10-21,94,242645,Medium
+P0262,East Road Project 262,Warehouse Development,"Cheektowaga, NY",2024-05-03,2024-08-29,118,551507,Low
+P0263,Central Commercial Project 263,Residential Development,"Amherst, NY",2024-07-05,2025-03-16,254,320073,High
+P0264,South Warehouse Project 264,Commercial Sitework,"Buffalo, NY",2024-11-21,2025-07-04,225,142309,High
+P0265,South Industrial Project 265,Residential Development,"Amherst, NY",2025-04-08,2025-11-28,234,344588,Low
+P0266,North Commercial Project 266,Residential Development,"Lancaster, NY",2024-12-14,2025-10-16,306,479008,Medium
+P0267,North Commercial Project 267,Residential Development,"Cheektowaga, NY",2026-02-09,2026-09-18,221,361699,High
+P0268,Central Commercial Project 268,Municipal Improvement,"Lancaster, NY",2025-10-21,2026-03-29,159,350842,Low
+P0269,Central Road Project 269,Warehouse Development,"Cheektowaga, NY",2026-02-02,2027-01-09,341,401594,Medium
+P0270,North Municipal Project 270,Industrial Site,"Tonawanda, NY",2025-02-06,2025-11-04,271,58925,High
+P0271,West Industrial Project 271,Industrial Site,"Cheektowaga, NY",2024-12-11,2025-08-24,256,152023,Low
+P0272,Central Warehouse Project 272,Commercial Sitework,"Hamburg, NY",2025-05-25,2025-11-21,180,102388,Medium
+P0273,East Industrial Project 273,Residential Development,"Williamsville, NY",2024-05-26,2025-03-13,291,547295,Low
+P0274,South Road Project 274,Commercial Sitework,"Lancaster, NY",2024-05-27,2024-09-12,108,272802,High
+P0275,North Municipal Project 275,Municipal Improvement,"Buffalo, NY",2025-12-11,2026-04-18,128,450048,High
+P0276,Central Municipal Project 276,Municipal Improvement,"Hamburg, NY",2025-05-03,2025-12-04,215,73596,High
+P0277,North Commercial Project 277,Road & Infrastructure,"Tonawanda, NY",2025-10-01,2026-06-20,262,366005,Medium
+P0278,Central Commercial Project 278,Municipal Improvement,"Williamsville, NY",2025-07-04,2026-02-19,230,554812,High
+P0279,West Industrial Project 279,Road & Infrastructure,"Amherst, NY",2024-12-03,2025-10-30,331,537244,High
+P0280,Central Municipal Project 280,Warehouse Development,"Hamburg, NY",2025-10-02,2026-08-07,309,427498,Low
+P0281,West Road Project 281,Commercial Sitework,"Lancaster, NY",2026-02-17,2026-09-20,215,514097,High
+P0282,North Commercial Project 282,Warehouse Development,"Clarence, NY",2025-04-17,2025-09-11,147,163056,Low
+P0283,North Commercial Project 283,Municipal Improvement,"Clarence, NY",2024-05-30,2025-01-22,237,29060,Medium
+P0284,East Warehouse Project 284,Warehouse Development,"Buffalo, NY",2025-02-18,2025-05-19,90,492272,Low
+P0285,South Municipal Project 285,Warehouse Development,"Cheektowaga, NY",2024-10-24,2025-07-30,279,533545,Low
+P0286,East Industrial Project 286,Warehouse Development,"Buffalo, NY",2025-09-02,2026-06-09,280,205279,Low
+P0287,South Commercial Project 287,Municipal Improvement,"Clarence, NY",2024-09-19,2025-04-13,206,54711,Medium
+P0288,East Road Project 288,Residential Development,"Amherst, NY",2026-02-02,2026-09-13,223,158026,Low
+P0289,South Industrial Project 289,Warehouse Development,"Tonawanda, NY",2024-05-23,2024-10-17,147,350484,Medium
+P0290,West Road Project 290,Road & Infrastructure,"Tonawanda, NY",2024-12-11,2025-04-23,133,480317,Low
+P0291,Central Industrial Project 291,Municipal Improvement,"Lancaster, NY",2025-09-15,2026-06-04,262,233134,Low
+P0292,North Warehouse Project 292,Warehouse Development,"Tonawanda, NY",2025-07-25,2026-03-31,249,117974,Medium
+P0293,Central Industrial Project 293,Residential Development,"Lancaster, NY",2024-01-02,2024-09-20,262,164646,Medium
+P0294,Central Warehouse Project 294,Municipal Improvement,"Hamburg, NY",2024-10-30,2025-06-25,238,417400,Low
+P0295,West Municipal Project 295,Industrial Site,"Lancaster, NY",2024-09-10,2025-02-26,169,165168,Medium
+P0296,South Warehouse Project 296,Residential Development,"Hamburg, NY",2025-10-13,2026-08-11,302,550534,High
+P0297,East Municipal Project 297,Road & Infrastructure,"Lancaster, NY",2025-03-28,2026-01-14,292,453774,Medium
+P0298,Central Road Project 298,Warehouse Development,"Clarence, NY",2024-02-06,2025-01-12,341,526937,Low
+P0299,East Road Project 299,Industrial Site,"Clarence, NY",2024-06-08,2025-04-22,318,426597,Low
+P0300,West Commercial Project 300,Industrial Site,"Cheektowaga, NY",2024-01-09,2024-09-18,253,107263,High

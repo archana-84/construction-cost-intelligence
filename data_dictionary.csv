@@ -1,0 +1,24 @@
+file,column,description
+projects.csv,project_id,Unique construction project identifier
+projects.csv,project_name,Synthetic project name
+projects.csv,project_type,Type of construction project
+projects.csv,location,Synthetic project location
+projects.csv,start_date,Project start date
+projects.csv,end_date,Project end date
+projects.csv,duration_days,Planned/observed project duration
+projects.csv,project_size_sqft,Approximate project size used to generate realistic costs
+projects.csv,complexity,Synthetic project complexity
+cost_codes.csv,cost_code,Unique cost category code
+cost_codes.csv,category,Major cost category
+cost_codes.csv,subcategory,Detailed cost type
+cost_codes.csv,unit,Measurement unit
+cost_codes.csv,base_unit_cost,Reference unit cost used for synthetic generation
+estimates.csv,estimated_quantity,Quantity expected during estimating
+estimates.csv,estimated_unit_cost,Expected unit cost
+estimates.csv,estimated_cost,Estimated total cost for the line item
+actual_costs.csv,actual_quantity,Quantity actually used
+actual_costs.csv,actual_unit_cost,Actual unit cost
+actual_costs.csv,actual_cost,Actual total cost
+project_variance.csv,variance,Actual cost minus estimated cost
+project_variance.csv,variance_pct,Variance as percentage of estimate
+project_variance.csv,budget_status,Business classification based on variance percentage

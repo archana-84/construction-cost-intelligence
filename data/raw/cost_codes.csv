@@ -1,0 +1,16 @@
+cost_code,category,subcategory,unit,base_unit_cost
+100,Labor,General Labor,hour,32.0
+101,Labor,Equipment Operators,hour,42.0
+102,Labor,Supervisors,hour,55.0
+103,Labor,Skilled Labor,hour,48.0
+200,Materials,Gravel,ton,34.0
+201,Materials,Concrete,cubic_yard,145.0
+202,Materials,Asphalt,ton,92.0
+203,Materials,Topsoil,cubic_yard,38.0
+300,Equipment,Excavator,hour,135.0
+301,Equipment,Bulldozer,hour,155.0
+302,Equipment,Loader,hour,120.0
+303,Equipment,Compactor,hour,95.0
+400,Fuel,Diesel,gallon,3.85
+500,Subcontractor,Concrete Work,job,28000.0
+501,Subcontractor,Utility Work,job,22000.0
