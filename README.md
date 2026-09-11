@@ -14,7 +14,7 @@ The project demonstrates a complete analytics workflow using **Python, SQL, SQLi
 
 ### Executive Dashboard
 
-![Construction Cost Intelligence Dashboard](images/dashboard_overview.png)
+![Construction Cost Intelligence Dashboard](images/Executive_dashboard.png)
 
 ### Cost Analysis
 
