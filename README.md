@@ -6,9 +6,9 @@ The project demonstrates a complete analytics workflow using **Python, SQL, SQLi
 
 ## 🔗 Project Links
 
-🚀 **Live Dashboard:** [Open Construction Cost Intelligence Dashboard]((https://construction-cost-intelligence.streamlit.app/))
+🚀 **Live Dashboard:** [Open Construction Cost Intelligence Dashboard](https://construction-cost-intelligence.streamlit.app/)
 
-💻 **GitHub Repository:** [View Source Code](https://github.com/archana-84/construction-cost-intelligence)
+
 ---
 ## 📸 Dashboard Preview
 
