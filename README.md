@@ -4,6 +4,11 @@ An end-to-end construction cost analytics project that compares estimated projec
 
 The project demonstrates a complete analytics workflow using **Python, SQL, SQLite, Streamlit, Plotly, and scikit-learn**.
 
+## 🔗 Project Links
+
+🚀 **Live Dashboard:** [Open Construction Cost Intelligence Dashboard]((https://construction-cost-intelligence.streamlit.app/))
+
+💻 **GitHub Repository:** [View Source Code](https://github.com/archana-84/construction-cost-intelligence)
 ---
 ## 📸 Dashboard Preview
 
