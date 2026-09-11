@@ -1,6 +1,6 @@
 import pandas as pd
+import sqlite3
 from pathlib import Path
-
 
 # -----------------------------
 # Project paths
@@ -726,3 +726,144 @@ if all_checks_passed:
     print("\nFINAL DATASET VALIDATION: PASSED")
 else:
     print("\nFINAL DATASET VALIDATION: FAILED")
+
+
+# ============================================================
+# LOAD DATA INTO SQLITE DATABASE
+# ============================================================
+
+print("\n=== CREATING SQLITE DATABASE ===")
+
+
+# Database directory
+DATABASE_DIR = BASE_DIR / "database"
+
+DATABASE_DIR.mkdir(
+    parents=True,
+    exist_ok=True
+)
+
+
+# Database file
+DATABASE_PATH = (
+    DATABASE_DIR / "construction.db"
+)
+
+
+# Create database connection
+connection = sqlite3.connect(
+    DATABASE_PATH
+)
+
+
+# ============================================================
+# LOAD TABLES
+# ============================================================
+
+projects.to_sql(
+    "projects",
+    connection,
+    if_exists="replace",
+    index=False
+)
+
+
+cost_codes.to_sql(
+    "cost_codes",
+    connection,
+    if_exists="replace",
+    index=False
+)
+
+
+estimates.to_sql(
+    "estimates",
+    connection,
+    if_exists="replace",
+    index=False
+)
+
+
+actual_costs.to_sql(
+    "actual_costs",
+    connection,
+    if_exists="replace",
+    index=False
+)
+
+
+processed_data.to_sql(
+    "cost_analysis",
+    connection,
+    if_exists="replace",
+    index=False
+)
+
+
+# ============================================================
+# VERIFY DATABASE TABLES
+# ============================================================
+
+tables = pd.read_sql_query(
+    """
+    SELECT name
+    FROM sqlite_master
+    WHERE type = 'table'
+    ORDER BY name;
+    """,
+    connection
+)
+
+
+print("\nDatabase tables:")
+
+print(tables)
+
+
+# ============================================================
+# VERIFY RECORD COUNTS
+# ============================================================
+
+print("\n=== DATABASE RECORD COUNTS ===")
+
+
+table_names = [
+    "projects",
+    "cost_codes",
+    "estimates",
+    "actual_costs",
+    "cost_analysis"
+]
+
+
+for table_name in table_names:
+
+    query = f"""
+    SELECT COUNT(*) AS record_count
+    FROM {table_name};
+    """
+
+    result = pd.read_sql_query(
+        query,
+        connection
+    )
+
+    record_count = result.loc[
+        0,
+        "record_count"
+    ]
+
+    print(
+        f"{table_name}: "
+        f"{record_count} records"
+    )
+
+
+# Close database connection
+connection.close()
+
+
+print(
+    f"\nSQLite database created successfully: "
+    f"{DATABASE_PATH}"
+)
