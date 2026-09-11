@@ -5,6 +5,24 @@ An end-to-end construction cost analytics project that compares estimated projec
 The project demonstrates a complete analytics workflow using **Python, SQL, SQLite, Streamlit, Plotly, and scikit-learn**.
 
 ---
+## 📸 Dashboard Preview
+
+### Executive Dashboard
+
+![Construction Cost Intelligence Dashboard](images/dashboard_overview.png)
+
+### Cost Analysis
+
+![Construction Cost Analysis](images/cost_analysis.png)
+
+### Cost Driver Analysis
+
+![Construction Cost Drivers](images/cost_drivers.png)
+
+### Machine Learning Anomaly Detection
+
+![Construction Project Anomaly Detection](images/anomaly_detection.png)
+
 
 ## 📌 Project Overview
 
@@ -241,7 +259,7 @@ Actual Unit Cost - Estimated Unit Cost
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Programming
 
